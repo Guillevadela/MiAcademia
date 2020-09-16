@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ipartek.formacion</groupId>
-	<artifactId>academia</artifactId>
+	<artifactId>MiAcademia</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1</version>
-	<name>academia</name>
+	<name>MiAcademia</name>
 
 	<!-- comunes para todo el POM -->
 	<properties>
@@ -115,6 +115,6 @@
 		</plugins>
 
 
-		<finalName>academia</finalName>
+		<finalName>MiAcademia</finalName>
 	</build>
 </project>
